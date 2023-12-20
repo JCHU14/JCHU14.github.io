@@ -16,7 +16,7 @@
           <p class="fs-1 topText text-light fw-bold">Jaret Hunemiller</p>
         </div>
         <p class="fs-1 topText">Software Developer / Engineer</p>
-        <p class="fs-3 topText">"Programming is not about typing, it's about thinking." - Rich Hickey</p>
+        <p class="fs-3 topText">"Programming is not about typing, it's about thinking" - Rich Hickey</p>
 
         <div class="d-flex justify-content-center">
           <p role="button"><a href="https://www.linkedin.com/in/jaret-hunemiller-000491296/"><i
