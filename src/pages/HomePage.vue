@@ -186,7 +186,7 @@ export default {
 }
 
 .background-2 {
-  background-image: url('https://th.bing.com/th/id/OIP.p2lqba1ZR2qxFAR61NBt9gHaEK?w=320&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+  background-image: url('https://wallpaperaccess.com/full/1812875.jpg');
   background-position: center;
   background-size: cover;
 }
