@@ -72,7 +72,7 @@
 
       <div class="col-md-4 col-12 text-center p-5">
         <p class="fs-3 fw-bold underline-2">Libraries and Tools</p>
-        <div class="text-left underline fs-4">
+        <div class="text-left topText text-light underline fs-4">
 
           <p>MongoDb</p>
           <p>SupaBase</p>
@@ -87,8 +87,8 @@
       </div>
 
       <div class="col-md-4 col-12 text-center p-5">
-        <p class="fs-3  fw-bold underline-2">Languages</p>
-        <div class="underline fs-4">
+        <p class="fs-3  fw-bold  underline-2">Languages</p>
+        <div class="underline topText text-light fs-4">
           <p>JavaScript(client/server)</p>
           <p>C#(server)</p>
           <p>CSS</p>
@@ -98,9 +98,9 @@
       </div>
 
       <div class="col-md-4 col-12 text-center p-5">
-        <p class="fw-bold  fs-3 underline-2">Frameworks</p>
+        <p class="fw-bold fs-3 underline-2">Frameworks</p>
 
-        <div class="underline fs-4">
+        <div class="underline topText text-light fs-4">
           <p>Vue</p>
           <p>DotNet</p>
           <p>Bootstrap</p>
