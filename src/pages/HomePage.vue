@@ -123,8 +123,10 @@
 
       <div class="col-md-5 col-12 text-center">
         <p class="fs-1 fw-bold text-light p-5"><em><i class="mdi mdi-tire logo mx-1 mdi-spin"></i>Auto-Tunes</em></p>
-        <img class="project-photo img-fluid text-end img-fluid rounded-circle"
-          src="https://th.bing.com/th/id/R.06bbd1f7e6ad1f4291d9d6e9796d30c4?rik=tmM8PTZXPoGW3w&pid=ImgRaw&r=0" alt="">
+        <a type="button" href="https://capstone.levityler.com/#/">
+          <img class="project-photo img-fluid text-end img-fluid rounded-circle"
+            src="https://th.bing.com/th/id/R.06bbd1f7e6ad1f4291d9d6e9796d30c4?rik=tmM8PTZXPoGW3w&pid=ImgRaw&r=0" alt="">
+        </a>
         <p class="fs-5 text-light p-5 underline">An car scene community page for all to enjoy!</p>
       </div>
 
