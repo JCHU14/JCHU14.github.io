@@ -153,27 +153,27 @@
     </div>
     <section class="row justify-content-around text-center">
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/compare.png" alt="">
       </div>
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/javaScriptBackend.png" alt="">
       </div>
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/c.png" alt="">
       </div>
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/mySql.png" alt="">
       </div>
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/Repo.png" alt="">
       </div>
 
-      <div class="col-6 p-5">
+      <div class="col-md-6 col-12 p-5">
         <img class="img-fluid codeSS imgShadow" src="../assets/img/service.png" alt="">
       </div>
 
