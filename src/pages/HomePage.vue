@@ -146,6 +146,40 @@
 
   </div>
 
+
+  <div class="container-fluid background-4">
+    <div>
+      <p class="fs-1 fw-bold p-5 text-light text-center underline">Code Snippets</p>
+    </div>
+    <section class="row justify-content-around text-center">
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/compare.png" alt="">
+      </div>
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/javaScriptBackend.png" alt="">
+      </div>
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/c.png" alt="">
+      </div>
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/mySql.png" alt="">
+      </div>
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/Repo.png" alt="">
+      </div>
+
+      <div class="col-6 p-5">
+        <img class="img-fluid codeSS imgShadow" src="../assets/img/service.png" alt="">
+      </div>
+
+    </section>
+  </div>
+
   <div class="container-fluid background-3">
     <section class="row">
       <div class="col-12 p-5">
@@ -181,6 +215,12 @@ export default {
   background-size: cover;
 }
 
+.background-4 {
+  background-image: url('https://th.bing.com/th/id/R.12fba79eba4b6d688304f765d2e6e5a6?rik=gYQUXMEfCgWHDw&pid=ImgRaw&r=0');
+  background-position: center;
+  background-size: cover;
+}
+
 .background-3 {
   background-image: url('https://wallpapertag.com/wallpaper/full/9/b/3/113239-popular-light-gray-background-2560x1600.jpg');
   background-position: center;
@@ -189,6 +229,11 @@ export default {
 
 .underline {
   text-decoration: underline solid red;
+}
+
+.codeSS {
+  height: 65vh;
+  width: 100%;
 }
 
 .underline-2 {
@@ -226,5 +271,9 @@ export default {
 
 .box {
   box-shadow: 0 5px 10px white;
+}
+
+.imgShadow {
+  box-shadow: 0px 5px 10px red;
 }
 </style>
